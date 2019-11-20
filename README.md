@@ -88,4 +88,5 @@ tumtidum
 
 Distributed under the GNU GPLv3 license. See ``LICENSE`` for more information.
 
+[https://tumtidum.github.io/PyBingo](https://tumtidum.github.io/PyBingo)
 [https://github.com/tumtidum](https://github.com/tumtidum)

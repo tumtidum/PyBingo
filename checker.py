@@ -1,7 +1,7 @@
 """PyBingo full-card-checker with GUI v0.0.2  - Python 3.x - tumtidum.
 
-With this script you can check during a game wether a full-card-BINGO
-is true or false on any of the cards from the loaded set of sheets.
+This script checks during a game wether a full-card-BINGO is true or
+false on any of the cards from the loaded set of sheets.
 
 """
 

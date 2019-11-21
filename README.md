@@ -57,7 +57,7 @@ press ENTER, then the script starts generating the sheets. During this process
 it will give feedback on the progress.
 *(Depending on your hardware & the amount of sheets, it may take some time.)*
 
-When the script is done it will open the *BINGO_sheets* folder where it has
+When the script is done it will open the ``BINGO_sheets`` folder where it has
 saved the PDF file with an unique ID sheet-set name. Now you can open this
 file with a PDF viewer and send it to a printer!
 
@@ -72,7 +72,7 @@ Open a terminal and *cd* to the *PyBingo* directory, then execute the
 python3 checker.py
 ```
 
-Select the corresponding CSV file which was also saved in the *BINGO_sheets*
+Select the corresponding CSV file which was also saved in the ``BINGO_sheets``
 folder. Now just click the checkboxes of the numbers which are being called.
 *(Loading another CSV set-file while the script is already running doesn't
 work yet, you need to quit and restart the script in order to do so. WIP.)*

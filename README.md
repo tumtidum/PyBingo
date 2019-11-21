@@ -1,7 +1,7 @@
 # PyBingo
 > Python script to generate BINGO sheets (75 balls, 3on Vertical).
 
-PyBingo's *sheets.py* script generates new BINGO sheets and saves them to a
+PyBingo's ``sheets.py`` script generates new BINGO sheets and saves them to a
 PDF file. The sheet design should be reasonably printer friendly and the
 generated PDF file sizes are are relatively small.
 
@@ -45,8 +45,8 @@ Catalina.)*
 
 ### Sheet generator
 
-Open a terminal and cd to the *PyBingo* directory, then execute the *sheets.py*
-file with Python:
+Open a terminal and *cd* to the *PyBingo* directory, then execute the
+``sheets.py`` file with Python:
 
 ```
 python3 sheets.py
@@ -65,8 +65,8 @@ file with a PDF viewer and send it to a printer!
 
 ![](img/screen_1.png)
 
-Open a terminal and cd to the *PyBingo* directory, then execute the
-*checker.py* file with Python:
+Open a terminal and *cd* to the *PyBingo* directory, then execute the
+``checker.py`` file with Python:
 
 ```
 python3 checker.py
